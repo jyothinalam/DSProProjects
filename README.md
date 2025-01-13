@@ -1,1 +1,1 @@
-The repository PWSkills-DataScienceProjects contains all end-to-end projects.
+The repository contains spam classifier Machine Learning project.
